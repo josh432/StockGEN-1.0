@@ -1,1 +1,2 @@
 # StockGEN-1.0
+This repo was an initial sandbox for our first project. Our team created StockGEN. StockGEN is a stock tip generator that tracks Hedge Fund Investments in the Life Sciences. I am extremely pleased with how it turned out! It askes the user what type of investment they are looking for and suggests tips based on user's risk tolerance. Built using HTML, CSS, Javascript, Materialize, AJAX, Firebase, and External API's. This is in a private repo and demo/code is available upon request. 
