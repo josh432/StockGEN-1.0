@@ -5,3 +5,4 @@ This repo was an initial sandbox for our first project. Our team created StockGE
 ![sg2](https://user-images.githubusercontent.com/27470842/36615083-cbe26d6c-1893-11e8-8c69-e78aa097ebb2.PNG)
 ![sg3](https://user-images.githubusercontent.com/27470842/36615085-ce24e834-1893-11e8-8115-dfdbe8a15b6e.PNG)
 ![sg4](https://user-images.githubusercontent.com/27470842/36615090-d0e9398a-1893-11e8-9e06-c12c3c8320ec.PNG)
+![sg5](https://user-images.githubusercontent.com/27470842/36615157-2b41bace-1894-11e8-9ad1-a254aa995953.PNG)
